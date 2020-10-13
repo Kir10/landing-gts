@@ -1,0 +1,19 @@
+{
+  "name": "landinggts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-material-ui-carousel": "^1.7.1",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
